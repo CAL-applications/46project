@@ -1,5 +1,3 @@
-import java.sql.SQLData;
-
 public class Dogs
 {
 
@@ -10,7 +8,7 @@ public class Dogs
     public int dogAge;
 
 
-    DBuilt(String name, String breed, int age)
+    Dogs(String name, String breed, int age)
     {
 
     dogName= name;
